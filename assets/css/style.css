@@ -1,0 +1,16 @@
+body {
+    width: 100%;
+    margin: auto 0 auto 0;
+}
+
+h1 {
+    height: 100px;
+    font-weight: bolder;
+}
+
+img {
+    border: solid 2px gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
